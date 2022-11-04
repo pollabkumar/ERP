@@ -1,0 +1,72 @@
+.login{
+  background-color: rgb(114, 159, 167);
+  color: black;
+  margin-top: 0px !important;
+  margin-left: 210px !important;
+  margin-right: 240px !important;
+  border: 63px;
+  border-radius: 12px; 
+  padding-bottom: 30px;
+}
+
+.homepage{
+  height: 350px;
+}
+.error{
+  color: red;
+  font-size: 15px;
+}
+
+a{
+  text-decoration: none;
+}
+.heading{
+  text-align: center;
+  color: brown;
+}
+
+.app{
+  height: 637px;
+  background-color: rgb(49, 61, 71);
+}
+
+.active {
+  background-color: rgb(158 48 59);
+}
+.ulNav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #151313;
+}
+
+.ulNav li {
+  float: left;
+}
+
+.ulNav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.ulNav li a:hover {
+  background-color:  rgb(218 100 111);
+}
+.forget{
+  font-size: 14px;
+  color: red;
+  cursor: pointer;
+}
+.logOut{
+  float: right !important;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  cursor: pointer;
+}
